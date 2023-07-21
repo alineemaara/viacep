@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.CepTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-21T16:29:21" hostname="LAPTOP-POU7I4FD" time="2.913">
+  <properties/>
+  <testcase name="testCepValido()" classname="tests.CepTest" time="2.913"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
